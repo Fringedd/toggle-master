@@ -73,7 +73,7 @@ h1 {
 
 .patternT {
   position: absolute;
-  background-image: url(./images/bg-top.svg);
+  background-image: url(bg-top.svg);
   background-repeat: no-repeat;
   background-size: contain;
   top: 0%;
@@ -83,7 +83,7 @@ h1 {
 }
 .patternB {
   position: absolute;
-  background-image: url(./images/bg-bottom.svg);
+  background-image: url(bg-bottom.svg);
   background-repeat: no-repeat;
   background-size: contain;
   bottom: -10%;
